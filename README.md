@@ -10,5 +10,5 @@
 
 ## Linguages e ferramentas
  - Java 8
- - pgAdmin
+ - pgAdmin4
  - postgreSQL
