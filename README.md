@@ -8,5 +8,7 @@
 - Lombok
 - Java Mail Sender
 
-## Linguages
+## Linguages e ferramentas
  - Java 8
+ - pgAdmin
+ - postgreSQL
